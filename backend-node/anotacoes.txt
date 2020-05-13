@@ -50,4 +50,24 @@ npx knex migrate:status
 
 npm install cors
 
+npm install celebrate
 
+npm install jest -D
+
+npx jest --init
+
+npm install cross-env
+
+npm install supertest -D
+
+
+===============================================================================
+Deploy:
+ - heroku
+ - Digital Ocean / https://www.digitalocean.com/pricing/#Compute
+ - AWS
+ - AZURE
+ - Google Cloud
+
+Front-end:
+ - netlify
