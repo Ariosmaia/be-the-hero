@@ -34,8 +34,8 @@
 
 ## :clipboard: Descrição do projeto
 
-O projeto <strong>Be The Hero</strong> é uma aplicação Web e Mobile que ajuda ong's a divulgarem situações que elas precisam de arrecadações.
-Desta formas as pessoas podem visualizar e contriuir ajudam alguém.
+O projeto <strong>Be The Hero</strong> é uma aplicação Web e Mobile que ajuda ong's a divulgarem situações que precisem de arrecadações.
+Desta formas as pessoas podem visualizar e contribuir ajudando alguém.
 
 Aplicação foi desenvolvida na <strong>OmniStack 11</strong> organizada pela :rocket: [Rocketseat](https://rocketseat.com.br/).
 
